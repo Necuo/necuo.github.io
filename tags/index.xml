@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Split Landing Example</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Split Landing Example</description>
+    <title>Tags on Meltemcita</title>
+    <link>http://meltemcita.today/tags/</link>
+    <description>Recent content in Tags on Meltemcita</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Apr 2021 11:25:05 -0400</lastBuildDate><atom:link href="http://meltemcita.today/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ruhcita</title>
+      <link>http://meltemcita.today/tags/ruhcita/</link>
+      <pubDate>Wed, 14 Apr 2021 11:25:05 -0400</pubDate>
+      
+      <guid>http://meltemcita.today/tags/ruhcita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>amk</title>
+      <link>http://meltemcita.today/tags/amk/</link>
+      <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>http://meltemcita.today/tags/amk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ctmre</title>
+      <link>http://meltemcita.today/tags/ctmre/</link>
+      <pubDate>Sun, 14 Apr 2019 11:25:05 -0400</pubDate>
+      
+      <guid>http://meltemcita.today/tags/ctmre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ekmek</title>
+      <link>http://meltemcita.today/tags/ekmek/</link>
+      <pubDate>Sat, 14 Apr 2018 11:25:05 -0400</pubDate>
+      
+      <guid>http://meltemcita.today/tags/ekmek/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
